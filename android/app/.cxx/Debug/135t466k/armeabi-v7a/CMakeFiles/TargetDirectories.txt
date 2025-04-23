@@ -1,0 +1,2 @@
+/Users/brunosilv96/projects2/alura_formation/listin/android/app/.cxx/Debug/135t466k/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/brunosilv96/projects2/alura_formation/listin/android/app/.cxx/Debug/135t466k/armeabi-v7a/CMakeFiles/rebuild_cache.dir
